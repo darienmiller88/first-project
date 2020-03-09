@@ -1,0 +1,104 @@
+body{
+    background-color: #EEE;
+    font-family: 'Times New Roman', 'Arial', Times, serif;
+}
+
+#header{
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    padding: 10px;
+}
+
+#container{
+    background-color:white;
+}
+
+h1{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.SocialMediaLinks{
+    /*background-color : white;*/
+    color: black;
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+.githubPicture{
+    text-align: center;
+    padding: 20px;
+}
+
+.instagramPicture{
+    text-align: center;
+    padding: 20px;
+}
+
+.linkedinPicture{
+    text-align: center;
+    padding: 20px;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
+.aboutMe{
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    padding: 10px;
+}
+
+.menuBar{
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    padding: 10px; 
+}
+
+.ProgrammingPictures{
+    text-align: center;
+    padding: 35px;
+    margin: 0;
+}
+
+.Pong{
+    padding: 50px;
+}
+
+.Snake{
+    padding: 50px;
+}
+
+.FlappyBird{
+    padding: 50px;
+}
+
+table{
+    /*background:rgb(47, 255, 134);*/
+    background: #000000;
+    color: white;
+}
+
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}

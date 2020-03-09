@@ -1,0 +1,38 @@
+/* Darien Miller CSS document */
+
+body {
+    background: purple;
+    color: white;
+}
+
+a:link, a:visited, a:active {
+    color: red;
+}
+
+a:hover {
+    font-size:150%;
+    background: green;
+    font-family:monospace;
+    color: yellow;
+    text-decoration:none;
+}
+
+.caution {
+    font-size:120%;
+    color: Red
+}
+
+table {
+    background: magenta;
+    color: blue;
+}
+
+ul {
+    background: black;
+}
+
+li {
+    font-size: 16pt;
+    border: solid;
+    border-width: thin;
+}
